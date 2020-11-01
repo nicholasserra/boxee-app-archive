@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Content-Type: application/xml
+Content-Length: 491
+Connection: keep-alive
+Date: Mon, 04 Aug 2014 04:38:25 GMT
+x-amz-meta-s3cmd-attrs: uid:1000/gname:tsella/uname:tsella/gid:1000/mode:33277/mtime:1375631771/atime:1376473120/ctime:1376473120
+Last-Modified: Fri, 06 Sep 2013 01:01:19 GMT
+ETag: "0d5f544759410bdb1b17afb88bf44552"
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Cache: Miss from cloudfront
+Via: 1.1 b72b909df262016427f62ebf2168c2db.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: rmUvpW5qk8hBmTH5kcaHDyzphs-A7qE37QFzLm1yk9DSAfXWVI_KzA==
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<app id="rp" version="0.17">
+<signature>bwUqK5/Ct4OT7zcOoP3k0HRMc6AmSbcOIKbrCmogGN78T68nvFSbLh+TN6vpB53X
+GzsaRgejBHcyMa7MmBbgbLTyf3E6e/Gm09e3XfyHiCHPuebr7hReRK/LAeka9tBW
+QT9wcsbHvkiZK8MDBoY8N80PnzZ4s4KC0QySvgOW3mxqQN42rq23OhA7pGBR4sHn
+f+6y4+2PhzUVAXjMwnpQPW7En1S3dPln881tzKlfNWj2DC1L+7AA6wJ0JBOxOJKS
+qKM/dco4xsVKRC6liVpozOxfMpNJemgHj7c6gv90ykJtihyQ12w93WZHvZRRPrv5
+kiAPzeVVy0XhaFs+cVKhCg==</signature>
+<authority>dev.mofriedbiscuits</authority>
+</app>

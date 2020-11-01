@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Content-Type: application/xml
+Content-Length: 487
+Connection: keep-alive
+Date: Mon, 04 Aug 2014 04:35:54 GMT
+x-amz-meta-s3cmd-attrs: uid:1000/gname:tsella/uname:tsella/gid:1000/mode:33277/mtime:1375631079/atime:1376473111/ctime:1376473111
+Last-Modified: Fri, 06 Sep 2013 00:16:32 GMT
+ETag: "2a407419cefca0d53f519d00aa113077"
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Cache: Miss from cloudfront
+Via: 1.1 26d5dca1cf83ecc7dfacdbf84de64204.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: pr7GDyV4sRki-IgkOdnbS1z1CQtJK_hhlKFEiHYefcV9xB_0qRxZ7w==
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<app id="islambox" version="1.4">
+<signature>MbfnQWW5ycZhADSOvJk2NyQQrBreZ4+Onz8m+Z1wIUIiOnxsbE/RFow3z5Aa3ts1
+syQypXWKDhCnogYH0MJJU+Me25JEszXHbOFWK+wB0kFS7h3egeDAXObsNCCsfZXN
+w0Z34UAciXCMXSuQQ2RkWHWpzaha88rNL4SBqf+rFOCV001YsFN6N6ONlXd6TDR1
+N5Ggj62p5wpCTZBNAG1RX8Qo+ayF97uVJx4BtenWKIO6OEMBwuvjEXz+sBOucI7G
+3fTwzIVSj53QBtsFoc9KdyhwbF6I2QMUXfzfSEHWCX6t/2KEu0uKEJr0vIDjU0Jb
+2liCe6XxZTSPJfB8BMIvew==</signature>
+<authority>dev.moftak</authority>
+</app>

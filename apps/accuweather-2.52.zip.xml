@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Content-Type: application/xml
+Content-Length: 489
+Connection: keep-alive
+Date: Mon, 04 Aug 2014 04:23:36 GMT
+x-amz-meta-s3cmd-attrs: uid:1000/gname:tsella/uname:tsella/gid:1000/mode:33277/mtime:1375630470/atime:1376473103/ctime:1376473103
+Last-Modified: Thu, 05 Sep 2013 23:47:01 GMT
+ETag: "dce8f1e6b3ed1319977ef3f044918e47"
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Cache: Miss from cloudfront
+Via: 1.1 2724dad4db2a0767af507a8685d2321a.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: fNtnmnmDpMrI5F4kte42P6pXpx37YXKPZOE28kZl_fGNzGXKHbrKag==
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<app id="accuweather" version="2.52">
+<signature>YGdcyRJtWGocXyrHMnGnNQ138sY+0X3zVylOgVtweBA3LzcDjVBD2Xze/+Wusld/
+8o3KdVU4ZDsBYJE1VLUpvTbDAc+mRXF8F9AhLxNZRnQspjKVND/Fhbl2MQ8c4AiD
+TJH0WzHDcPpazbrKbh2CLGp+hk+3IyyPEOlEP1Mc5/+/QEzlERRBthOgU2gfgUeg
+YSoHWxD+KGOrlBtfjhZPexF7qU4Hjwm7gNBL0y+bSffCxxyoDP/JzTI9K92ykeSL
+V5oztAWX7L0g1xX+L+SXevkmZ4/Axyy+7DiXvHbpGwtVDskPDUaSOm9yvvekCjWk
+SUDymDJyFmcZZ8pUxmWC5A==</signature>
+<authority>tv.boxee</authority>
+</app>

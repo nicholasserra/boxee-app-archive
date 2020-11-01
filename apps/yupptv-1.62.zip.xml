@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Content-Type: application/xml
+Content-Length: 486
+Connection: keep-alive
+Date: Mon, 04 Aug 2014 04:22:18 GMT
+x-amz-meta-s3cmd-attrs: uid:1000/gname:tsella/uname:tsella/gid:1000/mode:33277/mtime:1375632624/atime:1376473134/ctime:1376473134
+Last-Modified: Fri, 06 Sep 2013 02:09:53 GMT
+ETag: "09358ed003c28676deb8fee63926b7a0"
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Cache: Miss from cloudfront
+Via: 1.1 4dc7f6d0665b0bf563459ecc29b1c68a.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: Y0oxPE4SXbNjPMBI8DYXdfye3BjAvivuqeYJzKdqMxPfOuc4KOkI5A==
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<app id="yupptv" version="1.62">
+<signature>DUHfY8M7lyNtn2h6VOB72zBsNCsugozBI5KrbXnJDuNGUZMdIN6a9YNVWUv6JM/4
+U55LqT2WjFj6WsjcZQUtlwKhr8yUv2ICvvMKmqoKuK6EH3El2J3SQBcAARnaCl86
+WBAlJlAcCxleBKDCiordq4Er0/uyG0isYkTf1Pu4xTRy063ctGZwUOt/FPJNOzlE
+6TY+4KV0bEr2EaqfYYQ9V/eWQ31F70HpYoewe9PDrav8GFiv9935nFAIPwosfWFA
+BqbknPdfNYPY3GiJW/fYpZz3jfyoS0Et45xAxmCv2u3WsZ09LWdsZEPpiIu5YAom
+s06kX07yqwiBbmwAQXrr1g==</signature>
+<authority>dev.gto123</authority>
+</app>

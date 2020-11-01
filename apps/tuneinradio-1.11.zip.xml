@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Content-Type: application/xml
+Content-Length: 489
+Connection: keep-alive
+Date: Mon, 04 Aug 2014 04:24:58 GMT
+x-amz-meta-s3cmd-attrs: uid:1000/gname:tsella/uname:tsella/gid:1000/mode:33277/mtime:1375632261/atime:1376473129/ctime:1376473129
+Last-Modified: Fri, 06 Sep 2013 01:47:00 GMT
+ETag: "0902aed2adf7ab981d0d7d3b4fe48d62"
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Cache: Miss from cloudfront
+Via: 1.1 aec68543cec4f736ed512388e8c22034.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: x61C5WExItHAxcENxS3sueh6nrJ58Tb6lI8dG-iHCRnnyp4Z5mmvIQ==
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<app id="tuneinradio" version="1.11">
+<signature>HrT83bZSXo0N+wZEe+4BvfgdMYmWkJLAHWp/sN66rb7vvBXfm1HdOpUkP95TnkyS
+kqvP6Qw8n/8M4B+AzcFzplr9o8Uqu3Ot4FQk/haSeKH54Gy4MAgbEDZhF6E6pNQ2
+kTu9nGo7524VgbCN2PPbDJf7kUjsuWzKJ1DpR9KJO71hYYtjZtD0xkPB1Av8XVSi
+3F0tq8zRI60NBouHHMfF2giZeJF7xeyZgnAZQ1SlKzjZC6v0e8PAlNprbfZ/PmUu
+qdOetoKoH5Gr77rWUazwm1jRavSr9x+vPftxILWypHLejP+74RYB+htXw/6pRvE5
+Z4FduCRAnCBqDgF7p0maaA==</signature>
+<authority>tv.boxee</authority>
+</app>

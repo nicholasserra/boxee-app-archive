@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Content-Type: application/xml
+Content-Length: 499
+Connection: keep-alive
+Date: Mon, 04 Aug 2014 04:39:36 GMT
+x-amz-meta-s3cmd-attrs: uid:1000/gname:tsella/uname:tsella/gid:1000/mode:33277/mtime:1375630429/atime:1376473102/ctime:1376473102
+Last-Modified: Thu, 05 Sep 2013 23:45:12 GMT
+ETag: "2c518e384aa85bc59c96bb915203418c"
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Cache: Miss from cloudfront
+Via: 1.1 f76e2f64605ecbe0c01d5e129ad78ba6.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: 3NQalVQM3rfj-75CZ4Vsolk3wSKGQnqpyHHEetRNUDZW3SULgpquCA==
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<app id="absoluteradio" version="1.1">
+<signature>JmsTxAGlI6X2lrk6Bge8PnwxX4KphhHzmnR5/f258wKJUVKnAQ3KJ6yxnOjpXL+e
+fEfRXMRIogSNuscf3+4uCIVQsj/ixduZp75TvjrZ2Fo5W/wWSuSd2xQtgS+JhE++
+u/3e4VRnKWKnKDjn9okcw20/19xBJb6BVxSskUoepVJwiybJ2Y8A8ZG6L3RZoEoo
+xWeJ+7cGxw8dokA9KFVGLerG59zW9BBVm5ZVPofiQA16Hp0/6zJBgHvH31btw1aR
+Otc8ep7W6sNJsJljwhOZR7a/p72FugP6q5anUInXsdHf52u5hbrwtZDCkAJDFc7K
+lCxZ/rGQpnZl0K4VWiaGcA==</signature>
+<authority>dev.absoluteradio</authority>
+</app>

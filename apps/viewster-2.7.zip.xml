@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Content-Type: application/xml
+Content-Length: 487
+Connection: keep-alive
+Date: Mon, 04 Aug 2014 04:41:40 GMT
+x-amz-meta-s3cmd-attrs: uid:1000/gname:tsella/uname:tsella/gid:1000/mode:33277/mtime:1375632457/atime:1376473131/ctime:1376473131
+Last-Modified: Fri, 06 Sep 2013 01:58:24 GMT
+ETag: "14aeafa12c127ade7827dc38bf798377"
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Cache: Miss from cloudfront
+Via: 1.1 aec68543cec4f736ed512388e8c22034.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: FUA_7McfnAk29JKMdLiQs1tCJzOVoWmlAEFZRK69W796gHOArOCvCg==
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<app id="viewster" version="2.7">
+<signature>Ewr8SpOu720CyJAr9yK/rzuGr++B4YdZcTZkMqnIZMGJXkQC0M2zDPd/c3alm6EH
+G+M3Q8LCypDI/WOVRgjgncJO0uK0hjtDhLYZ1I0SoIveKGztW++9hDqZ7ztpbId2
+Er0iHuJUNakKSFPYSBE58mAB1iODyDl3yfKwqRMK8ENJkvVl3ZNwYmEa5BHSwYnT
+6x6dIAXPfEZm3iZ0kiCjHFQmqN/E7wBLaGk2cFlyJfir/L3m6eCf+gE1YKNmhQZm
+DFO4F/kgs6Fu57JayLlwejqnN4HJC4ySwZVxhbVChXn7aLY1LX6cPoKqEwL5xy7C
+7wnoVFvUzTYdZOln45aG9g==</signature>
+<authority>dev.DIVAAG</authority>
+</app>

@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Content-Type: application/octet-stream
+Content-Length: 485
+Connection: keep-alive
+Date: Mon, 04 Aug 2014 04:21:42 GMT
+Last-Modified: Fri, 01 Nov 2013 16:42:57 GMT
+ETag: "c3223bcbbc32062024907bfce41ed67a"
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Cache: Miss from cloudfront
+Via: 1.1 5bc472e50c51fe510a8aef64d104b754.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: BDWHS7AOjv75m2VLudOoIWCqvMDsCvxC0xR-sh98D5xUDR3SiNl01Q==
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<app id="youtube" version="2.26">
+<signature>h8sij8xmgA0txLEDdjMfkOZZm3yBFiKqjYAiKdO/2plvwt8HapOaiSpRuq+dNX/o
+C3MKCR6VaPBiYrCqgR3T94GkdrBFYUR2wdOlnnGeNO4bOjbLabFr4M9XaSYLB1Qw
+ulg/hs1G4tJiGHj6YjPUH9OVN/uUygpriCWzFZE2X7zVQOv9fxOR8FjVMTTZ23UA
+kgvovG2jhh/VnNtH1RotugDCB7SyDdkvrEFtNjUP8ePH0sIWJpccRxjeIowaTLdl
+lpYypSLa/aiajGwzKRX80wd4KzsM2TfY+Fr1LrDOSd2FpFgcVKggg2xNjFMF1rJ6
+xc0R4nRYLuAquq+rox2NXA==</signature>
+<authority>tv.boxee</authority>
+</app>

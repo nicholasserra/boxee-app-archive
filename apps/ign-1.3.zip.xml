@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Content-Type: application/xml
+Content-Length: 483
+Connection: keep-alive
+Date: Mon, 04 Aug 2014 04:37:24 GMT
+x-amz-meta-s3cmd-attrs: uid:1000/gname:tsella/uname:tsella/gid:1000/mode:33277/mtime:1375631035/atime:1376473110/ctime:1376473110
+Last-Modified: Fri, 06 Sep 2013 00:15:10 GMT
+ETag: "a64bbf83f26952f35e4472d2c8f6fdad"
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Cache: Miss from cloudfront
+Via: 1.1 cf036bc8e3cce4c84534e4d8da35e7b3.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: flKwqaGzoIGv158Rf4uoCafh_i_s6q4rXM-v2idfg2aXzaz5I_tn-g==
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<app id="ign" version="1.3">
+<signature>R28KZgUQmx8qyMpyf7fu3/sP6gTna1TG76klEv+cLuDh9DuJ05UcpsW96ETDDrgv
+FFT6TPQfDu6jquYu+D58Bx22aIRqLoSMVm1+VnIoyNHuTcSDFvMNH2JNwyiEd33Z
+AoWTFZOFZYSJFYetSCbxhySDxpibbtNj2BgTThUoG58ebRalNDMP0MWBo18dkXrx
+o0qF94DDSCpqP5o8/WKtOUm6zeOtr4zVuifeLvvi2ST3oOz+OCSyGh3OCOoa+uWT
+TMR8YYDaxYwsPdQ60ESnR2d05yWeiraoA37gSv5ezjE+FJQSmba8X2dp1jpxgSz1
+cnYFmcDmHQeiCMyPo10Yvw==</signature>
+<authority>dev.rworris</authority>
+</app>

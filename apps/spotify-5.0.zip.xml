@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Content-Type: application/xml
+Content-Length: 484
+Connection: keep-alive
+Date: Mon, 04 Aug 2014 04:21:28 GMT
+x-amz-meta-s3cmd-attrs: uid:1000/gname:tsella/uname:tsella/gid:1000/mode:33277/mtime:1375632092/atime:1376473126/ctime:1376473126
+Last-Modified: Fri, 06 Sep 2013 01:34:27 GMT
+ETag: "8e021a0c24c2751514b4b0b6da886202"
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Cache: Miss from cloudfront
+Via: 1.1 7b09b0a952886f630701fd6a000f90f4.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: H1hSaBBwpXCzuIo6yHNv-DDT6zoROLxxV93tTzoE2_wbB6PtWhE3bA==
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<app id="spotify" version="5.0">
+<signature>H2qLieObt/nMolsgXbXUhEQLIDQbAYoF/ZX5gtJRekEyacV0VACo5RCSoLtU1RNj
+OH3+UeW4dMa9JnLm6qzMNndsm3EShFmXdlZqz72Zb0eezoW7oRc+LMUu3j5XLx4Q
+CRNQG1Y7ZxWAE2Pb6Ve2S+ylT5h1EdGlDbkpjQ/fzl9PBu469mEPHMxrlKeE9t0N
+DaQpsqmpeFoP8Z6c/JKWcu4R1DicC4st62e+o+Efk3pVzuIchNddVQvlWN4IDi4A
+CKbbSUItAeoJJTUXocYaODHkAJp+t9PSv1do7k0JnwIkJ1j2yc6BMDj/2LkJObe5
+dwXeWhI4cGgYDnRWlt5NQg==</signature>
+<authority>tv.boxee</authority>
+</app>

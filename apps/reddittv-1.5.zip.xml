@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Content-Type: application/xml
+Content-Length: 488
+Connection: keep-alive
+Date: Mon, 04 Aug 2014 04:43:43 GMT
+x-amz-meta-s3cmd-attrs: uid:1000/gname:tsella/uname:tsella/gid:1000/mode:33277/mtime:1375631750/atime:1376473120/ctime:1376473120
+Last-Modified: Fri, 06 Sep 2013 01:00:33 GMT
+ETag: "c0c060b7dffcf966dd62a4ea85a094c3"
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Cache: Miss from cloudfront
+Via: 1.1 9acf89e1cc08298c1c424faba02a444c.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: rP7kO7TgDvNJxDzI9RfSLsYgYwIB27oX-EE_N3zWpR0bTVGu-epGXg==
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<app id="reddittv" version="1.5">
+<signature>RAdTkstzYw8cs0XCiS4vstlK8O8lKsrmXLZUKrundlsy60W2fnPTx0Bbq9Io1Pt5
+SqTtd1VnSucuh2a1N4bFyRpC3uXCxlCLdt4eQNtLfEZjtPzc9Nt0oUfvgpu/HB9q
+A/ZhFrpRS+2woyxP7mkjeJM8SqSVGijpojtJ1gpPqRrzvnUm0RfFf3qkAKqDSLiN
+MlJzJEnB8vgbWIX3nDpAuo8YCUtEpHU0qUbaut0Mv/rr2FmX47W/2MVVqJWfLGOn
+Fn9KUTRBNqVG6Oo98QYc64AVrlhbc01VQsVirYPyFHys6QyQ03wQHGUbTrLC5zHL
+REZwU+S9a6+6Hi/XrCVvTQ==</signature>
+<authority>dev.roshweb</authority>
+</app>

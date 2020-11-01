@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Content-Type: application/xml
+Content-Length: 494
+Connection: keep-alive
+Date: Mon, 04 Aug 2014 04:35:18 GMT
+x-amz-meta-s3cmd-attrs: uid:1000/gname:tsella/uname:tsella/gid:1000/mode:33277/mtime:1375630699/atime:1376473106/ctime:1376473106
+Last-Modified: Fri, 06 Sep 2013 00:00:29 GMT
+ETag: "7dc92ee8228a89b40b24bda17d1b6b63"
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Cache: Miss from cloudfront
+Via: 1.1 aec68543cec4f736ed512388e8c22034.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: 1Nm_e0DfOlPD1P6xnOEvVQr1WmofcFh1Q_RmUhdD-BW3EitqGHlL7Q==
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<app id="cinetrailer" version="1.9">
+<signature>Vto3MO2wDWgCyATIR5H8gMg4eT+GjFHazL8ukRVuj0gHoJJyyV5oKsjc9nQLJgnX
+AVeCJURnSwc9G6hJvDfeYBoNpRiGizUUkMrLXIfhALTxqJcMu2PrvfmUmKaS0LDM
++NE8eZIH/Svci3YfW9L1iZ5Na+y3GYMVtwSQgmywCJpFZARyiG+0qN6CRrfZMV5T
+a6xpwujjuX6AOOZx4aYQYdhVAPe6icEE7RNEmALYRU4RBtWySytGg5fcmyJ2EIOV
++Yw6Kj4HO10VUYHvKWhQYXthlD5TmO661GpjyK7qBYGVTAyGifRD+cRikMzkt045
+BzVpivPGQ4VEycAA6UeUqA==</signature>
+<authority>dev.zapstertag</authority>
+</app>

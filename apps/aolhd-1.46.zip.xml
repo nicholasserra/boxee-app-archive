@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Content-Type: application/xml
+Content-Length: 486
+Connection: keep-alive
+Date: Mon, 04 Aug 2014 04:39:14 GMT
+x-amz-meta-s3cmd-attrs: uid:1000/gname:tsella/uname:tsella/gid:1000/mode:33277/mtime:1375630518/atime:1376473103/ctime:1376473103
+Last-Modified: Thu, 05 Sep 2013 23:50:19 GMT
+ETag: "138d18351e6fcdb20c36875e5ce78e82"
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Cache: Miss from cloudfront
+Via: 1.1 2724dad4db2a0767af507a8685d2321a.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: CFztbmpGTH3-41_roJkxZECjlDwzuoy4dTCCSXtjFurklueiTdUm1A==
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<app id="aolhd" version="1.46">
+<signature>KS29cQBr2tyQA8pBxpuk7KsICzBIANHgndtigvADa4hDwuTIWvOgNAUnGUKTopMf
+/n4aJBbu2nBTHjWAeWqKjkIAsWQtnTulbAZucGtuJPmjVlUG1tryvzGjRpR6xdi/
+pQyyyZcbQThc4WlgHVWUGTId5Sz5LH2pK57mxPU9jzT0KfaURLYbdfPcpRI0UHXs
+J5RBrpNMekDkm4oKjLhU22TJ/9v9JzlBdDOXea7SG2CyxnkYYJzghbZRnZxx0i2q
+4dEeH4VIRP2Wxcs6bKgd13c5GfkyhJQDX0f2pC+wgriKxDz92eUyUgPYvMipSOV5
+8mOq+c1VPOdLiQQJEJlw7A==</signature>
+<authority>dev.gouldtv</authority>
+</app>

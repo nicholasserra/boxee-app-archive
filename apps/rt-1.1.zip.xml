@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Content-Type: application/xml
+Content-Length: 485
+Connection: keep-alive
+Date: Mon, 04 Aug 2014 04:36:51 GMT
+x-amz-meta-s3cmd-attrs: uid:1000/gname:tsella/uname:tsella/gid:1000/mode:33277/mtime:1375631791/atime:1376473121/ctime:1376473121
+Last-Modified: Fri, 06 Sep 2013 01:02:31 GMT
+ETag: "389013c5b0e2c19411520da69cba1dd6"
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Cache: Miss from cloudfront
+Via: 1.1 eb832db768f566df45ffb9e4623815da.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: VxZrsVL6X5VKNdfdNec3p6R5Ga4BpTKIipccodfQnsyrWbr6e0biug==
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<app id="rt" version="1.1">
+<signature>HZZKCR7tKE1EWGOvTRIHNuDA1HgcPOo29yE0pxTsxG4FMGqV1SkA7zYYP8ZjnOxz
+3Ff54qsvzf5evC1LxJBjLMPbt+ABSQvtlSci90sbC7GYTVZf3WHr+sgOAWJ9N8rx
+ZQiIK2fzanQTPxX3N612MEHSRpH2tdD3ouNtIgmeNQwfhuntuxptTHsTGsBN+uVm
+X89gYhCukY2eShLf5JPiZ0dBrU4i+rsxva4BzVsrDrsjSUED5qB/hjJO9+Kc8NvY
+uQBNOVTqOhsKrMrr5fOLvv2wi0XcUStyfU/5/lmpSbdLS9nv8BKt/WPXDUEBphtg
+SZ7wIyzZq/izfTfC6PfrtQ==</signature>
+<authority>dev.VisionIPTV</authority>
+</app>

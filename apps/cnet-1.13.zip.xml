@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Content-Type: application/xml
+Content-Length: 482
+Connection: keep-alive
+Date: Mon, 04 Aug 2014 04:37:38 GMT
+x-amz-meta-s3cmd-attrs: uid:1000/gname:tsella/uname:tsella/gid:1000/mode:33277/mtime:1375630707/atime:1376473106/ctime:1376473106
+Last-Modified: Fri, 06 Sep 2013 00:00:39 GMT
+ETag: "74d102d66f6b7e62d580ac1bf18da067"
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Cache: Miss from cloudfront
+Via: 1.1 be13417d5687f4f71d645fef8f72fa88.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: BoAUkEgMpYH0x2rCEkVf7gnvcFyy-4D16RI1bqxTsupmrfWZxyjJGQ==
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<app id="cnet" version="1.13">
+<signature>HnrwSbL0orUZJRbWkQM5LHXpR2IvC/dobUljTdDjb9KnV9wBNSfqY6v9I1N6tIdv
+NKIbIr8w0A5YxODscDZnqGvrGv/PEMvV9i/9/xIlgxYvVLRVp440N0syasAp73Kl
+JpoXsdIvBS0fel3HoKEHqmRULfyOXDqU4P/JMtELCgRR/TrFrz12DFL0Y9Zg2/MA
+LUXdL8J+mvsW6K+axgQ9lGqVHVjZuIYOU2icFSC3+GGll1ZvvpRjJrTcXG4ScVpj
+SF/unSQ5IcoVcptIJGyairLn3ct8uKwtFnji/xUvgX2hQ1td8Kloi97yVkD8bBMe
+g3ich6PqJ94TUtkKMYkU6w==</signature>
+<authority>tv.boxee</authority>
+</app>

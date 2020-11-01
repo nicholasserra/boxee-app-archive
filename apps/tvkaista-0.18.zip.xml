@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Content-Type: application/xml
+Content-Length: 488
+Connection: keep-alive
+Date: Mon, 04 Aug 2014 04:38:47 GMT
+x-amz-meta-s3cmd-attrs: uid:1000/gname:tsella/uname:tsella/gid:1000/mode:33277/mtime:1375632342/atime:1376473130/ctime:1376473130
+Last-Modified: Fri, 06 Sep 2013 01:51:53 GMT
+ETag: "c0c3d75cdb60f9fd9fbf75239f11621d"
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Cache: Miss from cloudfront
+Via: 1.1 36a836e6f4e7522b2d59a4ce6178e9d3.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: iMKqxutYIhIZMv2sLBUqB56BYTMxYB3Yzn_9ASILF1ncb3Hu1e12JA==
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<app id="tvkaista" version="0.18">
+<signature>Gn919RrY7CcGrp5v/Z2OR3ecDmGvuN/7MCkYtNXgtny96H6yFW7zNbeD/zrvdOo4
+JLvTohwvVEjSZ23pbGcJz2Z+ARteQUrBzrlxRZ34S9pPA2I8dM+JSq2B4hF5c9uh
+i8NHUq9u1UeOlI+gG+L0zhiqZLJfd7C1A0UNt/fu8UXQcUkE6G5ceN4mp50mMUiH
+c0NrSOryU9UgOgQCxxyzoj/WPIKIpSKE9Nk0W7VogUhCwvOA4asW6l9TeobTKEkV
+3D3JOv2Nem0Ig8AiCPgJUmSdMM+uW1s8NreL4uUmymMzFx3nlmaXVKq6lVFPsVcR
+2TTOXS4L0MGlCjpJliTDsA==</signature>
+<authority>dev.viljov</authority>
+</app>

@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Content-Type: application/xml
+Content-Length: 494
+Connection: keep-alive
+Date: Mon, 04 Aug 2014 04:22:49 GMT
+x-amz-meta-s3cmd-attrs: uid:1000/gname:tsella/uname:tsella/gid:1000/mode:33277/mtime:1375631856/atime:1376473121/ctime:1376473121
+Last-Modified: Fri, 06 Sep 2013 01:04:50 GMT
+ETag: "d39ac89eada84dbf2a50fa106781dcca"
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Cache: Miss from cloudfront
+Via: 1.1 8e9c154bea3bdb57c77549b0de0ade9c.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: 2cb5ZOiaCq5rl8DvDzQHui5ZcCEMiX85fhBr9u-0Ewcqv_n3XBjVuA==
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<app id="slingplayer" version="1.3">
+<signature>RRkw3lam9FLpUMMnZuD4hex1skYEE2qgfm6Pm4yhOOxXsJgtaKFvbjjILqDHiTam
+7h5144tE/Bgo7sVwjh/QVKfhqMJXv2TXItLxymFDOVvj4645li96Q6gAZb/DLqYL
+h2g1Md7ylRACXd/CSXBRDDwJDBuNQM2Z2TXtbTm68CVM7gkiIc/IpM9nIxv3DwCa
+e0SrQHeAMGB6SC7tZV9RmMDHtHvwxv1Ft3q3ZcXudsNrpZ0BB14QeV9Z4XGtey9m
+ePGTM21rQSvL+wRj+wNGBCtdVksRVKVbitCEbghfUMK8x/wQ+rUcWjfNw8zF/hR+
+j2MK35kQ5iesUy7lQrN1Yg==</signature>
+<authority>dev.spcdplayer</authority>
+</app>

@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Content-Type: application/xml
+Content-Length: 493
+Connection: keep-alive
+Date: Mon, 04 Aug 2014 04:36:27 GMT
+x-amz-meta-s3cmd-attrs: uid:1000/gname:tsella/uname:tsella/gid:1000/mode:33277/mtime:1375632466/atime:1376473132/ctime:1376473132
+Last-Modified: Fri, 06 Sep 2013 01:58:36 GMT
+ETag: "5f032504a72c9cf284bcd6f7863a1f07"
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Cache: Miss from cloudfront
+Via: 1.1 cc749e8a9e7c5deda2e72902fc92c5d3.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: PVMu5uPjPctFKr5O7OeW-1nJp39qnytevajYCWmvpPxxkM2FoQCxBQ==
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<app id="vimeo-couchmode" version="1.11">
+<signature>RZfXzLAHBFhtn2YcTU8XqpgNOvk7s6nB2scNloDGGgjw0H1eXzYSFacNgA9cOjPh
+lae3s7T7ZN+T6Sdu7ldkiLO5Zn645Hk4mS4N40SkLxXoknPau/b8XY8eEgpN2QYC
+XG8ICpSLLbVf06uY1FoLUGZ8dkuAXQLuZ9JEP51riHTIgqvyxsuw4Q8at6EDdsx9
+ksz1pWZkKwGI1NfUIEcEW+O56wnfwua9AzbvRM5cdD9N6g37eO1FpnpnpeHkbBLK
+NZUo4831AsmSIsBy47vzlBqxlDT42z3RfVQyFXiZu50M64gP+ZIpn621lAvy43dt
+GKgxQC//W2w/PPtXlisPuw==</signature>
+<authority>tv.boxee</authority>
+</app>
